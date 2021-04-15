@@ -1,7 +1,7 @@
 # Notas
 Primer programa en node
 
-ejecuta el ultimo: app4-conf-yargs.js
+ejecuta el ultimo: 04-app.js
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
